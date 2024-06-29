@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+     border:10px solid black;
+    
+    
+}
+button{
+    font-size: 20px;
+    color:white;
+    background-color: white;
+}
+p{
+    font-size: 40px;
+    font-family:Imprint MT Shadow;
+    font-style: italic;
+}   
